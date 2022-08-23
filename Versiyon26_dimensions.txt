@@ -1,0 +1,29 @@
+100.1
+3 mm 664.8075 5 mm 640.8075 1 mm 12 mm değiştirmiş ise +0.436875 646.05 e götürür.
+3 mm 539.61 5 mm 521.61 1 mm 9 mm değiştirmiş ise +0.535 526.425 e götürür
+3 mm 1060.9075 5 mm 982.9075 1 mm 39 mm değiştirmiş ise +0,558141 1004.675 e götürür.
+
+ver25 dimensions aşağıdadır:
+
+100.1
+647.2075
+526.41
+1003.7075
+
+ver26 dimensions aşağıdadır:
+
+100.1
+646.2075
+526.16
+1004.9575
+
+buradan sonra farklı bir versiyonla sağ taraf değiştirilebilir.
+şimdilik sol taraf(2li) değiştirilecek.
+
+Overall comparison exceline göre denenmesi gereken tahmini değerler:
+
+60 db için;
+108.8 100.1
+642.3 646.05
+517.6 526.425
+985.7 1004.675
